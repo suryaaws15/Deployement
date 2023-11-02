@@ -17,3 +17,7 @@ EXPOSE 5000
 ENV NAME World
 
 CMD ["python3", "app.py"]
+
+
+
+
